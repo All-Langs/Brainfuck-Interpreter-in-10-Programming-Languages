@@ -5,7 +5,7 @@ Usage in Python
 python interpreter.py -i source.bf
 ```
 
-Usage in GO
+Usage in Go
 ```
 go run interpreter.go source.bf
 ```
