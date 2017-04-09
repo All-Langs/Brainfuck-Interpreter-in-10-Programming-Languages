@@ -28,3 +28,9 @@ Usage in Go
 ```
 go run interpreter.go source.bf
 ```
+
+Usage in Swift
+```
+swiftc interpreter.swift -o swift-BF-interpreter
+./swift-BF-interpreter source.bf
+```
